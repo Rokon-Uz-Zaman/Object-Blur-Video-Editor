@@ -1,7 +1,7 @@
 
 
 #Blur Object in a video
-#Auther:  A.B.M. Rokon-Uz-Zaman Roman
+#  A.B.M. Rokon-Uz-Zaman Roman
 
 
 
@@ -19,7 +19,6 @@ import imutils
 import tkinter as tk
 from tkinter import filedialog
 
-#filepath="test.mp4"  #work
 #filepath='test.mp4' #work
 #filepath='C:/Users/Roman/PycharmProjects/R_video player working/3.mp4' #work
 
@@ -81,9 +80,6 @@ def trackingfun(path):
 #print(filepath)  #test
 
 ##### function define section end
-
-
-
 
 ###################   GUI section
 
