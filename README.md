@@ -8,7 +8,7 @@ This program Blur any object in a video
 Demo Video :
 
 
-https://user-images.githubusercontent.com/26451679/149540007-8b85a780-4284-4a4a-8483-5fd43a580c2c.mp
+https://user-images.githubusercontent.com/26451679/149540007-8b85a780-4284-4a4a-8483-5fd43a580c2c.mp4
 
 
 
