@@ -1,5 +1,5 @@
 # Object-Blur-Video-Editor
-This program Blur any object in a video 
+This program Blur any selected object in  video 
 
 
 ![Object-Blur-Demo-Short](https://user-images.githubusercontent.com/26451679/149546854-d73bfee9-6962-4493-9559-74e57549d262.gif)
